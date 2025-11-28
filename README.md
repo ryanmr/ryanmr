@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan 👋
 
-I'm a Lead Software Engineer based in [Saint Paul, MN](https://www.openstreetmap.org/relation/136612). My primary roles are enabling software engineering teams to thrive with platforms, services, tooling and helping teams adopt a fullstack approach and pragmatic philosophy to software engineering. Beyond that, I help business teams thrive with technology, build engineering teams focused on growth and autonomy, and lend an engineering perspective to management and its pedestrian duties.
+I'm a Principal Software Engineer based in [Saint Paul, MN](https://www.openstreetmap.org/relation/136612). My primary roles are enabling software engineering teams to thrive with platforms, services, tooling and helping teams adopt a fullstack approach and pragmatic philosophy to software engineering. Beyond that, I help business teams thrive with technology, build engineering teams focused on growth and autonomy, and lend an engineering perspective to management and its pedestrian duties.
 
 - 🔭 I’m currently working at **the intersection of Technology and Agriculture**
 - 🌱 I’m learning **Go**
